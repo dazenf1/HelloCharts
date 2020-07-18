@@ -1,0 +1,2 @@
+rootProject.name='HelloCharts'
+include ':app', ':hellocharts-library'
